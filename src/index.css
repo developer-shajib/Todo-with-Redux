@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap');
+* {
+  font-family: 'Dosis', sans-serif;
+}
+.app {
+  background-color: rgb(47, 46, 46);
+  width: 100%;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.anim-1 {
+  animation-duration: 1.5s !important;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+}
+.anim-2 {
+  animation-duration: 1.8s !important;
+  animation-delay: 0s;
+}
+.anim-3 {
+  animation-duration: 2s !important;
+  animation-delay: 0.1s;
+}
+.anim-4 {
+  animation-duration: 2s !important;
+  animation-delay: 0.5s;
+}
+.anim-5 {
+  animation-duration: 2s !important;
+  animation-delay: 0.9s;
+}
+
+/* 
+.my-custom-animation {
+  animation-duration: 4s;
+  animation-delay: 6s;
+  animation-fill-mode: both;
+} */

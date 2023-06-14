@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "name": "Go To School",
+      "type": "pending"
+    },
+    {
+      "name": "Do Breakfast",
+      "type": "pending",
+      "id": 5
+    },
+    {
+      "name": "Learn MongoDB",
+      "type": "complete",
+      "id": 6
+    },
+    {
+      "name": "Learn CSS",
+      "type": "cancel",
+      "id": 11
+    },
+    {
+      "name": "Learn BlockChain",
+      "type": "cancel",
+      "id": 12
+    },
+    {
+      "name": "Learn Python",
+      "type": "complete",
+      "id": 13
+    }
+  ]
+}
